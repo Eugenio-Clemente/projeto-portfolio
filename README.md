@@ -11,13 +11,4 @@
 
 ## Projeto desktop 🔥
 
- [<img src="/src/imagens/projeto-portfolio.gif" alt="Projeto Mario">]()
-
-📌 Tecnologias 
-````
-- HTML
-
-- CSS 
-
-- Javascript 
-````
+ [<img src="/src/imagens/projeto-portfolio.gif" alt="Projeto portfolio">]()
